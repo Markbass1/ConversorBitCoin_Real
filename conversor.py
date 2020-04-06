@@ -1,9 +1,8 @@
 bitcoin = 37763.316547
 real = 0.000026
-controle = 1
 
 # apresentacao
-while controle == 1:
+while True:
     print("\n \n Bem vindo ao Conversor de Criptomoedas")
     print(" 1 - Converter Bitcoins em Reais \n 2 - Converter Reais em Bitcoins \n 3 - Sair")
     menu = input("Digite um nomero para prosseguir:")
